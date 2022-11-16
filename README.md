@@ -28,6 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## me quedo aquí 
-https://angular.io/tutorial/toh-pt3 PARA CREAR UN COMPONENTE NUEVO ¿HACE FALTA REALMENTE CREARLO DENTRO DE LA CARPETA HEROES?
-
-¿CON QUÉ ARCHIVO SE RELACIONA STYLES.SAAS?
+https://angular.io/tutorial/toh-pt3 
